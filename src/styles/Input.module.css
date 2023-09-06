@@ -1,0 +1,19 @@
+.container__input {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	max-width: 50%;
+}
+.input {
+	max-width: 100%;
+	height: 50px;
+	text-align: center;
+	border: none;
+	box-shadow: 2px 2px 15px #9999;
+	border-radius: 30px;
+	margin-bottom: 2rem;
+	/* position: sticky; */
+}
+/* .button__input{
+} */

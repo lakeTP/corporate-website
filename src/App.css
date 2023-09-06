@@ -1,0 +1,5 @@
+header{
+    background-image: url(./assets/header.png);
+    background-size: cover;
+    box-shadow: -2px 9px 21px 12px rgba(34, 60, 80, 0.2);
+}

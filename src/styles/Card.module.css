@@ -1,0 +1,40 @@
+.wrapper {
+  margin: 2rem 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.card__block {
+  display: flex;
+  gap: 1rem;
+  color: #4985ff;
+}
+.card__text {
+  margin-left: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+.card__text p {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  text-align: left;
+  color: #000;
+}
+.card__text h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.card__icon {
+  color: #4985ff;
+  padding: 1rem;
+  border: 2px solid #4985ff;
+  border-radius: 50%;
+}
